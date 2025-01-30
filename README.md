@@ -36,7 +36,6 @@ Utilize os métodos ```cadastrarPessoa```, ```excluirPessoa```, ```listarPessoas
 O sistema exibirá mensagens informando o resultado de cada operação.
 
 ## ✨Considerações Finais:
-Este sistema de cadastro foi desenvolvido como resposta a um desafio proposto pela [E2E Coders](https://ead.e2etreinamentos.com.br/).
 O objetivo era criar um sistema simples que demonstrasse as funcionalidades básicas de um sistema de cadastro, como cadastrar, excluir, listar e alterar dados de usuários.
 O sistema foi desenvolvido em Java utilizando a IDE IntelliJ. A implementação é simples e direta, utilizando uma lista para armazenar os dados dos usuários. O sistema também inclui mensagens de sucesso ou erro para cada operação realizada.
 Este desafio foi uma ótima oportunidade para colocar em prática meus conhecimentos de Java e desenvolvimento de software. Acredito que o sistema final é funcional e atende aos requisitos do desafio.
